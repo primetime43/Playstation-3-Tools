@@ -1,0 +1,6 @@
+C:\Users\Mike\Documents\Visual Studio 2012\Projects\Black Ops 1 Tool\Black Ops 1 Tool\bin\Release\Black Ops 1 Tool.exe.config
+C:\Users\Mike\Documents\Visual Studio 2012\Projects\Black Ops 1 Tool\Black Ops 1 Tool\obj\Release\Black_Ops_1_Tool.Form1.resources
+C:\Users\Mike\Documents\Visual Studio 2012\Projects\Black Ops 1 Tool\Black Ops 1 Tool\obj\Release\Black_Ops_1_Tool.License.resources
+C:\Users\Mike\Documents\Visual Studio 2012\Projects\Black Ops 1 Tool\Black Ops 1 Tool\obj\Release\Black_Ops_1_Tool.PlayerManager.resources
+C:\Users\Mike\Documents\Visual Studio 2012\Projects\Black Ops 1 Tool\Black Ops 1 Tool\obj\Release\Black_Ops_1_Tool.Properties.Resources.resources
+C:\Users\Mike\Documents\Visual Studio 2012\Projects\Black Ops 1 Tool\Black Ops 1 Tool\obj\Release\Black Ops 1 Tool.csproj.GenerateResource.Cache

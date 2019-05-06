@@ -1,0 +1,11 @@
+c:\users\mike\documents\visual studio 2012\Projects\Black Ops 1 Tool\Black Ops 1 Tool\bin\Debug\Black Ops 1 Tool.exe.config
+c:\users\mike\documents\visual studio 2012\Projects\Black Ops 1 Tool\Black Ops 1 Tool\obj\Debug\Black_Ops_1_Tool.Form1.resources
+c:\users\mike\documents\visual studio 2012\Projects\Black Ops 1 Tool\Black Ops 1 Tool\obj\Debug\Black_Ops_1_Tool.Properties.Resources.resources
+c:\users\mike\documents\visual studio 2012\Projects\Black Ops 1 Tool\Black Ops 1 Tool\obj\Debug\Black Ops 1 Tool.csproj.GenerateResource.Cache
+c:\users\mike\documents\visual studio 2012\Projects\Black Ops 1 Tool\Black Ops 1 Tool\bin\Debug\Black Ops 1 Tool.exe
+c:\users\mike\documents\visual studio 2012\Projects\Black Ops 1 Tool\Black Ops 1 Tool\bin\Debug\Black Ops 1 Tool.pdb
+c:\users\mike\documents\visual studio 2012\Projects\Black Ops 1 Tool\Black Ops 1 Tool\obj\Debug\Black Ops 1 Tool.exe
+c:\users\mike\documents\visual studio 2012\Projects\Black Ops 1 Tool\Black Ops 1 Tool\obj\Debug\Black Ops 1 Tool.pdb
+C:\Users\Mike\Documents\Visual Studio 2012\Projects\Black Ops 1 Tool\Black Ops 1 Tool\obj\Debug\Black_Ops_1_Tool.PlayerManager.resources
+C:\Users\Mike\Documents\Visual Studio 2012\Projects\Black Ops 1 Tool\Black Ops 1 Tool\obj\Debug\Black Ops 1 Tool.csprojAssemblyReference.cache
+C:\Users\Mike\Documents\Visual Studio 2012\Projects\Black Ops 1 Tool\Black Ops 1 Tool\obj\Debug\Black Ops 1 Tool.csproj.CoreCompileInputs.cache
