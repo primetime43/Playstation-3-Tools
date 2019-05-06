@@ -1,0 +1,11 @@
+c:\users\mike\documents\visual studio 2012\Projects\Call of Duty Retriever\Call of Duty Retriever\bin\Debug\Call of Duty Retriever.exe.config
+c:\users\mike\documents\visual studio 2012\Projects\Call of Duty Retriever\Call of Duty Retriever\obj\Debug\Call_of_Duty_Retriever.Form1.resources
+c:\users\mike\documents\visual studio 2012\Projects\Call of Duty Retriever\Call of Duty Retriever\obj\Debug\Call_of_Duty_Retriever.Properties.Resources.resources
+c:\users\mike\documents\visual studio 2012\Projects\Call of Duty Retriever\Call of Duty Retriever\obj\Debug\Call of Duty Retriever.csproj.GenerateResource.Cache
+c:\users\mike\documents\visual studio 2012\Projects\Call of Duty Retriever\Call of Duty Retriever\bin\Debug\Call of Duty Retriever.exe
+c:\users\mike\documents\visual studio 2012\Projects\Call of Duty Retriever\Call of Duty Retriever\bin\Debug\Call of Duty Retriever.pdb
+c:\users\mike\documents\visual studio 2012\Projects\Call of Duty Retriever\Call of Duty Retriever\obj\Debug\Call of Duty Retriever.exe
+c:\users\mike\documents\visual studio 2012\Projects\Call of Duty Retriever\Call of Duty Retriever\obj\Debug\Call of Duty Retriever.pdb
+C:\Users\Mike\Documents\Visual Studio 2012\Projects\Call of Duty Retriever\Call of Duty Retriever\obj\Debug\Call of Duty Retriever.csprojAssemblyReference.cache
+C:\Users\Mike\Documents\Visual Studio 2012\Projects\Call of Duty Retriever\Call of Duty Retriever\obj\Debug\Call of Duty Retriever.csproj.CoreCompileInputs.cache
+C:\Users\Mike\Documents\Visual Studio 2012\Projects\Call of Duty Retriever\Call of Duty Retriever\obj\Debug\Call of Duty Retriever.csproj.CopyComplete

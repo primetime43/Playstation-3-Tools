@@ -1,0 +1,9 @@
+c:\users\mike\documents\visual studio 2012\Projects\Mouse Click X and Y Coords\Mouse Click X and Y Coords\bin\Debug\Mouse Click X and Y Coords.exe.config
+c:\users\mike\documents\visual studio 2012\Projects\Mouse Click X and Y Coords\Mouse Click X and Y Coords\bin\Debug\Mouse Click X and Y Coords.exe
+c:\users\mike\documents\visual studio 2012\Projects\Mouse Click X and Y Coords\Mouse Click X and Y Coords\bin\Debug\Mouse Click X and Y Coords.pdb
+c:\users\mike\documents\visual studio 2012\Projects\Mouse Click X and Y Coords\Mouse Click X and Y Coords\obj\Debug\Mouse Click X and Y Coords.csprojResolveAssemblyReference.cache
+c:\users\mike\documents\visual studio 2012\Projects\Mouse Click X and Y Coords\Mouse Click X and Y Coords\obj\Debug\Mouse_Click_X_and_Y_Coords.Form1.resources
+c:\users\mike\documents\visual studio 2012\Projects\Mouse Click X and Y Coords\Mouse Click X and Y Coords\obj\Debug\Mouse_Click_X_and_Y_Coords.Properties.Resources.resources
+c:\users\mike\documents\visual studio 2012\Projects\Mouse Click X and Y Coords\Mouse Click X and Y Coords\obj\Debug\Mouse Click X and Y Coords.csproj.GenerateResource.Cache
+c:\users\mike\documents\visual studio 2012\Projects\Mouse Click X and Y Coords\Mouse Click X and Y Coords\obj\Debug\Mouse Click X and Y Coords.exe
+c:\users\mike\documents\visual studio 2012\Projects\Mouse Click X and Y Coords\Mouse Click X and Y Coords\obj\Debug\Mouse Click X and Y Coords.pdb

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ratchet & Clank Into the Nexus Save Editor", "Red-EyeX32 - Test Drive Unlimited 2 Save Editor\Ratchet & Clank Into the Nexus Save Editor.csproj", "{C4EC60FC-4049-4567-9AF1-E79C07EDC36C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4EC60FC-4049-4567-9AF1-E79C07EDC36C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4EC60FC-4049-4567-9AF1-E79C07EDC36C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4EC60FC-4049-4567-9AF1-E79C07EDC36C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4EC60FC-4049-4567-9AF1-E79C07EDC36C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

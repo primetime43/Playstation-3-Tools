@@ -1,0 +1,8 @@
+C:\Users\Mike\Documents\Visual Studio 2012\Projects\Ratchet & Clank Into the Nexus Save Editor\Red-EyeX32 - Test Drive Unlimited 2 Save Editor\bin\Release\Ratchet & Clank Into the Nexus Save Editor.exe
+C:\Users\Mike\Documents\Visual Studio 2012\Projects\Ratchet & Clank Into the Nexus Save Editor\Red-EyeX32 - Test Drive Unlimited 2 Save Editor\bin\Release\Ratchet & Clank Into the Nexus Save Editor.pdb
+C:\Users\Mike\Documents\Visual Studio 2012\Projects\Ratchet & Clank Into the Nexus Save Editor\Red-EyeX32 - Test Drive Unlimited 2 Save Editor\obj\Release\Red_EyeX32___Test_Drive_Unlimited_2_Save_Editor.MainForm.resources
+C:\Users\Mike\Documents\Visual Studio 2012\Projects\Ratchet & Clank Into the Nexus Save Editor\Red-EyeX32 - Test Drive Unlimited 2 Save Editor\obj\Release\Red_EyeX32___Test_Drive_Unlimited_2_Save_Editor.Properties.Resources.resources
+C:\Users\Mike\Documents\Visual Studio 2012\Projects\Ratchet & Clank Into the Nexus Save Editor\Red-EyeX32 - Test Drive Unlimited 2 Save Editor\obj\Release\Ratchet & Clank Into the Nexus Save Editor.csproj.GenerateResource.Cache
+C:\Users\Mike\Documents\Visual Studio 2012\Projects\Ratchet & Clank Into the Nexus Save Editor\Red-EyeX32 - Test Drive Unlimited 2 Save Editor\obj\Release\Ratchet & Clank Into the Nexus Save Editor.exe
+C:\Users\Mike\Documents\Visual Studio 2012\Projects\Ratchet & Clank Into the Nexus Save Editor\Red-EyeX32 - Test Drive Unlimited 2 Save Editor\obj\Release\Ratchet & Clank Into the Nexus Save Editor.pdb
+C:\Users\Mike\Documents\Visual Studio 2012\Projects\Ratchet & Clank Into the Nexus Save Editor\Red-EyeX32 - Test Drive Unlimited 2 Save Editor\obj\Release\Ratchet & Clank Into the Nexus Save Editor.csprojResolveAssemblyReference.cache

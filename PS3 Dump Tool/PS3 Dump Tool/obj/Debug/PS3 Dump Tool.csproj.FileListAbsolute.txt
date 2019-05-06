@@ -1,0 +1,8 @@
+c:\users\mike\documents\visual studio 2012\Projects\PS3 Dump Tool\PS3 Dump Tool\bin\Debug\PS3 Dump Tool.exe.config
+c:\users\mike\documents\visual studio 2012\Projects\PS3 Dump Tool\PS3 Dump Tool\bin\Debug\PS3 Dump Tool.exe
+c:\users\mike\documents\visual studio 2012\Projects\PS3 Dump Tool\PS3 Dump Tool\bin\Debug\PS3 Dump Tool.pdb
+c:\users\mike\documents\visual studio 2012\Projects\PS3 Dump Tool\PS3 Dump Tool\obj\Debug\PS3 Dump Tool.exe
+c:\users\mike\documents\visual studio 2012\Projects\PS3 Dump Tool\PS3 Dump Tool\obj\Debug\PS3 Dump Tool.pdb
+C:\Users\Mike\Documents\Visual Studio 2012\Projects\PS3 Dump Tool\PS3 Dump Tool\obj\Debug\PS3 Dump Tool.csprojAssemblyReference.cache
+C:\Users\Mike\Documents\Visual Studio 2012\Projects\PS3 Dump Tool\PS3 Dump Tool\obj\Debug\PS3 Dump Tool.csproj.CoreCompileInputs.cache
+C:\Users\Mike\Documents\Visual Studio 2012\Projects\PS3 Dump Tool\PS3 Dump Tool\obj\Debug\PS3 Dump Tool.csproj.CopyComplete

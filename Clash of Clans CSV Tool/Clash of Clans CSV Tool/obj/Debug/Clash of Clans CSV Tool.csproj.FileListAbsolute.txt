@@ -1,0 +1,9 @@
+c:\users\mike\documents\visual studio 2012\Projects\Clash of Clans CSV Tool\Clash of Clans CSV Tool\bin\Debug\Clash of Clans CSV Tool.exe.config
+c:\users\mike\documents\visual studio 2012\Projects\Clash of Clans CSV Tool\Clash of Clans CSV Tool\bin\Debug\Clash of Clans CSV Tool.exe
+c:\users\mike\documents\visual studio 2012\Projects\Clash of Clans CSV Tool\Clash of Clans CSV Tool\bin\Debug\Clash of Clans CSV Tool.pdb
+c:\users\mike\documents\visual studio 2012\Projects\Clash of Clans CSV Tool\Clash of Clans CSV Tool\obj\Debug\Clash of Clans CSV Tool.csprojResolveAssemblyReference.cache
+c:\users\mike\documents\visual studio 2012\Projects\Clash of Clans CSV Tool\Clash of Clans CSV Tool\obj\Debug\Clash_of_Clans_CSV_Tool.Form1.resources
+c:\users\mike\documents\visual studio 2012\Projects\Clash of Clans CSV Tool\Clash of Clans CSV Tool\obj\Debug\Clash_of_Clans_CSV_Tool.Properties.Resources.resources
+c:\users\mike\documents\visual studio 2012\Projects\Clash of Clans CSV Tool\Clash of Clans CSV Tool\obj\Debug\Clash of Clans CSV Tool.csproj.GenerateResource.Cache
+c:\users\mike\documents\visual studio 2012\Projects\Clash of Clans CSV Tool\Clash of Clans CSV Tool\obj\Debug\Clash of Clans CSV Tool.exe
+c:\users\mike\documents\visual studio 2012\Projects\Clash of Clans CSV Tool\Clash of Clans CSV Tool\obj\Debug\Clash of Clans CSV Tool.pdb

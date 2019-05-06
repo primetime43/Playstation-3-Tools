@@ -1,0 +1,10 @@
+c:\users\mike\documents\visual studio 2012\Projects\Hosts File Editor\Hosts File Editor\bin\Debug\Hosts File Editor.exe.config
+c:\users\mike\documents\visual studio 2012\Projects\Hosts File Editor\Hosts File Editor\bin\Debug\Hosts File Editor.exe
+c:\users\mike\documents\visual studio 2012\Projects\Hosts File Editor\Hosts File Editor\bin\Debug\Hosts File Editor.pdb
+c:\users\mike\documents\visual studio 2012\Projects\Hosts File Editor\Hosts File Editor\obj\Debug\Hosts_File_Editor.Form1.resources
+c:\users\mike\documents\visual studio 2012\Projects\Hosts File Editor\Hosts File Editor\obj\Debug\Hosts_File_Editor.Properties.Resources.resources
+c:\users\mike\documents\visual studio 2012\Projects\Hosts File Editor\Hosts File Editor\obj\Debug\Hosts File Editor.csproj.GenerateResource.Cache
+c:\users\mike\documents\visual studio 2012\Projects\Hosts File Editor\Hosts File Editor\obj\Debug\Hosts File Editor.exe
+c:\users\mike\documents\visual studio 2012\Projects\Hosts File Editor\Hosts File Editor\obj\Debug\Hosts File Editor.pdb
+C:\Users\Mike\Documents\Visual Studio 2012\Projects\Hosts File Editor\Hosts File Editor\obj\Debug\Hosts File Editor.csprojAssemblyReference.cache
+C:\Users\Mike\Documents\Visual Studio 2012\Projects\Hosts File Editor\Hosts File Editor\obj\Debug\Hosts File Editor.csproj.CoreCompileInputs.cache

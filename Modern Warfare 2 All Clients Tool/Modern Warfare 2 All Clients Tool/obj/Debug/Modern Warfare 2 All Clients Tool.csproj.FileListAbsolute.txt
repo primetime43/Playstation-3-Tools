@@ -1,0 +1,17 @@
+c:\users\mike\documents\visual studio 2012\Projects\Modern Warfare 2 All Clients Tool\Modern Warfare 2 All Clients Tool\bin\Debug\Modern Warfare 2 All Clients Tool.exe.config
+c:\users\mike\documents\visual studio 2012\Projects\Modern Warfare 2 All Clients Tool\Modern Warfare 2 All Clients Tool\obj\Debug\Modern_Warfare_2_All_Clients_Tool.Form1.resources
+c:\users\mike\documents\visual studio 2012\Projects\Modern Warfare 2 All Clients Tool\Modern Warfare 2 All Clients Tool\obj\Debug\Modern_Warfare_2_All_Clients_Tool.Properties.Resources.resources
+c:\users\mike\documents\visual studio 2012\Projects\Modern Warfare 2 All Clients Tool\Modern Warfare 2 All Clients Tool\obj\Debug\Modern Warfare 2 All Clients Tool.csproj.GenerateResource.Cache
+c:\users\mike\documents\visual studio 2012\Projects\Modern Warfare 2 All Clients Tool\Modern Warfare 2 All Clients Tool\bin\Debug\Modern Warfare 2 All Clients Tool.exe
+c:\users\mike\documents\visual studio 2012\Projects\Modern Warfare 2 All Clients Tool\Modern Warfare 2 All Clients Tool\bin\Debug\Modern Warfare 2 All Clients Tool.pdb
+c:\users\mike\documents\visual studio 2012\Projects\Modern Warfare 2 All Clients Tool\Modern Warfare 2 All Clients Tool\obj\Debug\Modern Warfare 2 All Clients Tool.exe
+c:\users\mike\documents\visual studio 2012\Projects\Modern Warfare 2 All Clients Tool\Modern Warfare 2 All Clients Tool\obj\Debug\Modern Warfare 2 All Clients Tool.pdb
+C:\Users\Mike\Documents\Visual Studio 2012\Projects\Modern Warfare 2 All Clients Tool\Modern Warfare 2 All Clients Tool\obj\Debug\Modern_Warfare_2_All_Clients_Tool.Account.resources
+C:\Users\Mike\Documents\Visual Studio 2012\Projects\Modern Warfare 2 All Clients Tool\Modern Warfare 2 All Clients Tool\obj\Debug\Modern_Warfare_2_All_Clients_Tool.TimePlayedCalculator.resources
+C:\Users\Mike\Documents\Visual Studio 2012\Projects\Modern Warfare 2 All Clients Tool\Modern Warfare 2 All Clients Tool\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Mike\Documents\Visual Studio 2012\Projects\Modern Warfare 2 All Clients Tool\Modern Warfare 2 All Clients Tool\bin\Debug\ps3tmapi_net.dll
+C:\Users\Mike\Documents\Visual Studio 2012\Projects\Modern Warfare 2 All Clients Tool\Modern Warfare 2 All Clients Tool\bin\Debug\Image Injector.exe
+C:\Users\Mike\Documents\Visual Studio 2012\Projects\Modern Warfare 2 All Clients Tool\Modern Warfare 2 All Clients Tool\bin\Debug\Modern Warfare 2 RTM Tool.exe
+C:\Users\Mike\Documents\Visual Studio 2012\Projects\Modern Warfare 2 All Clients Tool\Modern Warfare 2 All Clients Tool\obj\Debug\Modern Warfare 2 All Clients Tool.csprojAssemblyReference.cache
+C:\Users\Mike\Documents\Visual Studio 2012\Projects\Modern Warfare 2 All Clients Tool\Modern Warfare 2 All Clients Tool\obj\Debug\Modern Warfare 2 All Clients Tool.csproj.CoreCompileInputs.cache
+C:\Users\Mike\Documents\Visual Studio 2012\Projects\Modern Warfare 2 All Clients Tool\Modern Warfare 2 All Clients Tool\obj\Debug\Modern Warfare 2 All Clients Tool.csproj.CopyComplete

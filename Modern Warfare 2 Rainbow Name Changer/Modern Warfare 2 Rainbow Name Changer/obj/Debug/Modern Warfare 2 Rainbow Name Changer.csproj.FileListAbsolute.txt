@@ -1,0 +1,10 @@
+c:\users\mike\documents\visual studio 2012\Projects\Modern Warfare 2 Rainbow Name Changer\Modern Warfare 2 Rainbow Name Changer\bin\Debug\Modern Warfare 2 Rainbow Name Changer.exe.config
+c:\users\mike\documents\visual studio 2012\Projects\Modern Warfare 2 Rainbow Name Changer\Modern Warfare 2 Rainbow Name Changer\obj\Debug\Modern_Warfare_2_Rainbow_Name_Changer.Form1.resources
+c:\users\mike\documents\visual studio 2012\Projects\Modern Warfare 2 Rainbow Name Changer\Modern Warfare 2 Rainbow Name Changer\obj\Debug\Modern_Warfare_2_Rainbow_Name_Changer.Properties.Resources.resources
+c:\users\mike\documents\visual studio 2012\Projects\Modern Warfare 2 Rainbow Name Changer\Modern Warfare 2 Rainbow Name Changer\obj\Debug\Modern Warfare 2 Rainbow Name Changer.csproj.GenerateResource.Cache
+c:\users\mike\documents\visual studio 2012\Projects\Modern Warfare 2 Rainbow Name Changer\Modern Warfare 2 Rainbow Name Changer\bin\Debug\Modern Warfare 2 Rainbow Name Changer.exe
+c:\users\mike\documents\visual studio 2012\Projects\Modern Warfare 2 Rainbow Name Changer\Modern Warfare 2 Rainbow Name Changer\bin\Debug\Modern Warfare 2 Rainbow Name Changer.pdb
+c:\users\mike\documents\visual studio 2012\Projects\Modern Warfare 2 Rainbow Name Changer\Modern Warfare 2 Rainbow Name Changer\obj\Debug\Modern Warfare 2 Rainbow Name Changer.exe
+c:\users\mike\documents\visual studio 2012\Projects\Modern Warfare 2 Rainbow Name Changer\Modern Warfare 2 Rainbow Name Changer\obj\Debug\Modern Warfare 2 Rainbow Name Changer.pdb
+C:\Users\Mike\Documents\Visual Studio 2012\Projects\Modern Warfare 2 Rainbow Name Changer\Modern Warfare 2 Rainbow Name Changer\obj\Debug\Modern Warfare 2 Rainbow Name Changer.csprojAssemblyReference.cache
+C:\Users\Mike\Documents\Visual Studio 2012\Projects\Modern Warfare 2 Rainbow Name Changer\Modern Warfare 2 Rainbow Name Changer\obj\Debug\Modern Warfare 2 Rainbow Name Changer.csproj.CoreCompileInputs.cache

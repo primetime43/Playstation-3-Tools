@@ -1,0 +1,11 @@
+c:\users\mike\documents\visual studio 2012\Projects\WAW Zombies Tool\WAW Zombies Tool\bin\Debug\WAW Zombies Tool.exe.config
+c:\users\mike\documents\visual studio 2012\Projects\WAW Zombies Tool\WAW Zombies Tool\bin\Debug\WAW Zombies Tool.exe
+c:\users\mike\documents\visual studio 2012\Projects\WAW Zombies Tool\WAW Zombies Tool\bin\Debug\WAW Zombies Tool.pdb
+c:\users\mike\documents\visual studio 2012\Projects\WAW Zombies Tool\WAW Zombies Tool\obj\Debug\WAW_Zombies_Tool.Form1.resources
+c:\users\mike\documents\visual studio 2012\Projects\WAW Zombies Tool\WAW Zombies Tool\obj\Debug\WAW_Zombies_Tool.Properties.Resources.resources
+c:\users\mike\documents\visual studio 2012\Projects\WAW Zombies Tool\WAW Zombies Tool\obj\Debug\WAW Zombies Tool.csproj.GenerateResource.Cache
+c:\users\mike\documents\visual studio 2012\Projects\WAW Zombies Tool\WAW Zombies Tool\obj\Debug\WAW Zombies Tool.exe
+c:\users\mike\documents\visual studio 2012\Projects\WAW Zombies Tool\WAW Zombies Tool\obj\Debug\WAW Zombies Tool.pdb
+C:\Users\Mike\Documents\Visual Studio 2012\Projects\WAW Zombies Tool\WAW Zombies Tool\obj\Debug\WAW Zombies Tool.csprojAssemblyReference.cache
+C:\Users\Mike\Documents\Visual Studio 2012\Projects\WAW Zombies Tool\WAW Zombies Tool\obj\Debug\WAW Zombies Tool.csproj.CoreCompileInputs.cache
+C:\Users\Mike\Documents\Visual Studio 2012\Projects\WAW Zombies Tool\WAW Zombies Tool\obj\Debug\WAW Zombies Tool.csproj.CopyComplete

@@ -1,0 +1,17 @@
+c:\users\mike\documents\visual studio 2012\Projects\Call of Duty World at War Tool\Call of Duty World at War Tool\bin\Debug\Call of Duty World at War Tool.exe.config
+c:\users\mike\documents\visual studio 2012\Projects\Call of Duty World at War Tool\Call of Duty World at War Tool\bin\Debug\Call of Duty World at War Tool.exe
+c:\users\mike\documents\visual studio 2012\Projects\Call of Duty World at War Tool\Call of Duty World at War Tool\bin\Debug\Call of Duty World at War Tool.pdb
+c:\users\mike\documents\visual studio 2012\Projects\Call of Duty World at War Tool\Call of Duty World at War Tool\obj\Debug\Call of Duty World at War Tool.csprojResolveAssemblyReference.cache
+c:\users\mike\documents\visual studio 2012\Projects\Call of Duty World at War Tool\Call of Duty World at War Tool\obj\Debug\Call_of_Duty_World_at_War_Tool.Form1.resources
+c:\users\mike\documents\visual studio 2012\Projects\Call of Duty World at War Tool\Call of Duty World at War Tool\obj\Debug\Call_of_Duty_World_at_War_Tool.Properties.Resources.resources
+c:\users\mike\documents\visual studio 2012\Projects\Call of Duty World at War Tool\Call of Duty World at War Tool\obj\Debug\Call of Duty World at War Tool.csproj.GenerateResource.Cache
+c:\users\mike\documents\visual studio 2012\Projects\Call of Duty World at War Tool\Call of Duty World at War Tool\obj\Debug\Call of Duty World at War Tool.exe
+c:\users\mike\documents\visual studio 2012\Projects\Call of Duty World at War Tool\Call of Duty World at War Tool\obj\Debug\Call of Duty World at War Tool.pdb
+c:\users\mike\documents\visual studio 2012\Projects\Call of Duty World at War Tool\Call of Duty World at War Tool\obj\Debug\Call_of_Duty_World_at_War_Tool.GameSendServerCommand.resources
+C:\Users\Mike\Documents\Visual Studio 2012\Projects\Call of Duty World at War Tool\Call of Duty World at War Tool\obj\Debug\Call_of_Duty_World_at_War_Tool.Clients.resources
+C:\Users\Mike\Documents\Visual Studio 2012\Projects\Call of Duty World at War Tool\Call of Duty World at War Tool\obj\Debug\Call_of_Duty_World_at_War_Tool.AboutBox1.resources
+C:\Users\Mike\Documents\Visual Studio 2012\Projects\Call of Duty World at War Tool\Call of Duty World at War Tool\obj\Debug\Call_of_Duty_World_at_War_Tool.name.resources
+C:\Users\Mike\Documents\Visual Studio 2012\Projects\Call of Duty World at War Tool\Call of Duty World at War Tool\obj\Debug\Call_of_Duty_World_at_War_Tool.Stats.resources
+C:\Users\Mike\Documents\Visual Studio 2012\Projects\Call of Duty World at War Tool\Call of Duty World at War Tool\bin\Debug\ps3tmapi_net.dll
+C:\Users\Mike\Documents\Visual Studio 2012\Projects\Call of Duty World at War Tool\Call of Duty World at War Tool\obj\Debug\Call_of_Duty_World_at_War_Tool.Mods.resources
+C:\Users\Mike\Documents\Visual Studio 2012\Projects\Call of Duty World at War Tool\Call of Duty World at War Tool\obj\Debug\Call_of_Duty_World_at_War_Tool.playermanageplayer.resources

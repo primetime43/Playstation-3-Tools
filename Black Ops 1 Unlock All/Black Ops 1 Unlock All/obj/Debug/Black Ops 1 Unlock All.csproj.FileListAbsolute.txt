@@ -1,0 +1,9 @@
+c:\users\mike\documents\visual studio 2012\Projects\Black Ops 1 Unlock All\Black Ops 1 Unlock All\bin\Debug\Black Ops 1 Unlock All.exe.config
+c:\users\mike\documents\visual studio 2012\Projects\Black Ops 1 Unlock All\Black Ops 1 Unlock All\bin\Debug\Black Ops 1 Unlock All.exe
+c:\users\mike\documents\visual studio 2012\Projects\Black Ops 1 Unlock All\Black Ops 1 Unlock All\bin\Debug\Black Ops 1 Unlock All.pdb
+c:\users\mike\documents\visual studio 2012\Projects\Black Ops 1 Unlock All\Black Ops 1 Unlock All\obj\Debug\Black Ops 1 Unlock All.csprojResolveAssemblyReference.cache
+c:\users\mike\documents\visual studio 2012\Projects\Black Ops 1 Unlock All\Black Ops 1 Unlock All\obj\Debug\Black_Ops_1_Unlock_All.Form1.resources
+c:\users\mike\documents\visual studio 2012\Projects\Black Ops 1 Unlock All\Black Ops 1 Unlock All\obj\Debug\Black_Ops_1_Unlock_All.Properties.Resources.resources
+c:\users\mike\documents\visual studio 2012\Projects\Black Ops 1 Unlock All\Black Ops 1 Unlock All\obj\Debug\Black Ops 1 Unlock All.csproj.GenerateResource.Cache
+c:\users\mike\documents\visual studio 2012\Projects\Black Ops 1 Unlock All\Black Ops 1 Unlock All\obj\Debug\Black Ops 1 Unlock All.exe
+c:\users\mike\documents\visual studio 2012\Projects\Black Ops 1 Unlock All\Black Ops 1 Unlock All\obj\Debug\Black Ops 1 Unlock All.pdb

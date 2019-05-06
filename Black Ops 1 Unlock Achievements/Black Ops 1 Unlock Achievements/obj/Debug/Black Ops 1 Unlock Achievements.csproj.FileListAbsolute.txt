@@ -1,0 +1,11 @@
+c:\users\mike\documents\visual studio 2012\Projects\Black Ops 1 Unlock Achievements\Black Ops 1 Unlock Achievements\bin\Debug\Black Ops 1 Unlock Achievements.exe.config
+c:\users\mike\documents\visual studio 2012\Projects\Black Ops 1 Unlock Achievements\Black Ops 1 Unlock Achievements\obj\Debug\Black_Ops_1_Unlock_Achievements.Form1.resources
+c:\users\mike\documents\visual studio 2012\Projects\Black Ops 1 Unlock Achievements\Black Ops 1 Unlock Achievements\obj\Debug\Black_Ops_1_Unlock_Achievements.Properties.Resources.resources
+c:\users\mike\documents\visual studio 2012\Projects\Black Ops 1 Unlock Achievements\Black Ops 1 Unlock Achievements\obj\Debug\Black Ops 1 Unlock Achievements.csproj.GenerateResource.Cache
+c:\users\mike\documents\visual studio 2012\Projects\Black Ops 1 Unlock Achievements\Black Ops 1 Unlock Achievements\bin\Debug\Black Ops 1 Unlock Achievements.exe
+c:\users\mike\documents\visual studio 2012\Projects\Black Ops 1 Unlock Achievements\Black Ops 1 Unlock Achievements\bin\Debug\Black Ops 1 Unlock Achievements.pdb
+c:\users\mike\documents\visual studio 2012\Projects\Black Ops 1 Unlock Achievements\Black Ops 1 Unlock Achievements\obj\Debug\Black Ops 1 Unlock Achievements.exe
+c:\users\mike\documents\visual studio 2012\Projects\Black Ops 1 Unlock Achievements\Black Ops 1 Unlock Achievements\obj\Debug\Black Ops 1 Unlock Achievements.pdb
+C:\Users\Mike\Documents\Visual Studio 2012\Projects\Black Ops 1 Unlock Achievements\Black Ops 1 Unlock Achievements\obj\Debug\Black Ops 1 Unlock Achievements.csprojAssemblyReference.cache
+C:\Users\Mike\Documents\Visual Studio 2012\Projects\Black Ops 1 Unlock Achievements\Black Ops 1 Unlock Achievements\obj\Debug\Black Ops 1 Unlock Achievements.csproj.CoreCompileInputs.cache
+C:\Users\Mike\Documents\Visual Studio 2012\Projects\Black Ops 1 Unlock Achievements\Black Ops 1 Unlock Achievements\obj\Debug\Black Ops 1 Unlock Achievements.csproj.CopyComplete
